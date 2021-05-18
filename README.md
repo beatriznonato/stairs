@@ -4,7 +4,7 @@
 You majored in console ladder architecture, becoming an expert in using console.log to build ladders.
 Ask the user how many steps he wants on the ladder, and then draw the ladder.
 
-EXAMPLE:
+Example:
 Ladder size 4:
 
 ```
